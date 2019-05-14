@@ -1,0 +1,11 @@
+{
+  "orgName": "Mark's Demo Company",
+  "edition": "Enterprise",
+  "hasSampleData": "true",
+  "features": ["MultiCurrency", "AuthorApex"],
+  "orgPreferences": {
+    "enabled": ["S1DesktopEnabled", "ChatterEnabled", "IsOpportunityTeamEnabled", "IsAccountTeamsEnabled"],
+    "disabled": []
+  }
+  
+}
